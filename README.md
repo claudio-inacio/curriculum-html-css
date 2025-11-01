@@ -1,35 +1,53 @@
-# Entrega: Estilizar um Currículo
+# 💼 Curriculum — HTML & CSS
 
-## Estilizar um Currículo: Guru
+Projeto desenvolvido com o objetivo de **praticar e aprimorar habilidades de HTML e CSS**, criando uma página de **currículo pessoal moderna e responsiva**.  
+Este projeto foi feito **somente com HTML e CSS**, sem uso de JavaScript, como parte dos estudos de front-end.
 
-Para esta atividade, você precisará atualizar as regras em `style.css` para conseguir um currículo que se pareça com o do arquivo `mock_up.pdf`.
+---
 
-A única coisa que nós fizemos por você neste nível foi o alinhamento. Você terá que descobrir todo o resto por conta própria!
+## 🎯 Objetivo do Projeto
 
-## Fontes
-Para as tags body e html, você pode utilizar as seguintes fontes: `'Lato'`, `'Helvetica'` e `'Arial'`, juntamente com o `sans-serif` por padrão. Exemplo: `<nome-fonte>, **sans-serif**`
+O principal objetivo foi **exercitar o design e a estrutura de páginas profissionais** utilizando apenas HTML e CSS, simulando um currículo online simples, funcional e visualmente agradável.
 
-Para os títulos você pode utilizar qualquer uma dessas fontes `'Rokkitt'`, `'Helvetica'`, `'Arial'`, e `sans-serif`.
+Durante o desenvolvimento, foram trabalhados:
+- Estrutura semântica e hierarquia de conteúdo.  
+- Boas práticas de organização e indentação.  
+- Estilos e componentes reutilizáveis.  
+- Responsividade para diferentes tamanhos de tela.  
+- Design limpo e elegante voltado à apresentação profissional.
 
-## Cores
-As seguintes cores serão usadas pelo documento para texto e fundos:
-- `#444444` (slate grey, títulos e sub-títulos)
-- `#181818` (jet black, contatos e descrições)
-- `#cf8a05` (yellow, tópicos e divisória)
-- `#f3f3f3` (off white, cor de fundo)
-- `#dedede` (light grey, divisória entre os tópicos)
+---
 
-## Bordas
-- a borda que separa o cabeçalho do resto do currículo tem 2px de espessura
-- bordas entre cada seção tem 1px de espessura
+## 🧠 Conceitos e Boas Práticas Aplicadas
 
-## Dicas de como posicionar: 
-Por enquanto vocês podem usar os atributos CSS: float e width (Vocês aprenderão outras formas).
-- O atributo width define uma largura da tag.
-- E atributo float define por onde o elemento pode flutuar, no nosso caso, sejá para esquerda, ou para direita. 
+- **HTML semântico:** estrutura organizada com tags adequadas (`<header>`, `<main>`, `<section>`, `<footer>`).  
+- **CSS moderno:** uso de `flexbox`, `grid`, `gap`, variáveis e tipografia consistente.  
+- **Responsividade:** layout adaptável a celulares, tablets e desktops.  
+- **Design minimalista:** foco na legibilidade e clareza das informações.  
+- **Código limpo:** separação visual entre estrutura (HTML) e estilo (CSS).
 
-## Recursos
-Conforme você tentar recriar o mock up, poderá ser útil conferir estes recursos:
-- [MDN CSS Referência](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
-- [MDN CSS Reference (em inglês)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [W3Schools CSS Reference (em inglês)](https://www.w3schools.com/cssref/default.asp)
+---
+
+## 🧩 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3 (Flexbox)**
+- **Vercel** — Deploy e hospedagem
+
+---
+
+## 🌐 Deploy
+
+O projeto está disponível online:  
+👉 [curriculum-html-css.vercel.app](https://curriculum-html-css.vercel.app/)
+
+---
+
+## 🧑‍💻 Como Executar Localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/claudio-inacio/curriculum-html-css.git
+
+   <img width="785" height="905" alt="image" src="https://github.com/user-attachments/assets/e407e062-a257-4340-917c-57eb0a28fb4e" />
+
