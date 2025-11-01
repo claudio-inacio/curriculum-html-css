@@ -49,5 +49,6 @@ O projeto está disponível online:
    ```bash
    git clone https://github.com/claudio-inacio/curriculum-html-css.git
 
-   <img width="785" height="905" alt="image" src="https://github.com/user-attachments/assets/e407e062-a257-4340-917c-57eb0a28fb4e" />
+
+<img width="785" height="905" alt="image" src="https://github.com/user-attachments/assets/e407e062-a257-4340-917c-57eb0a28fb4e" />
 
